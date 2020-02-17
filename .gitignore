@@ -1,0 +1,15 @@
+dist/
+
+# Firebase cache
+.firebase/
+.firebaserc
+firestore-debug.log
+firebase-debug.log
+src/functions/*
+var/*
+
+!src/functions/index.js
+
+node_modules/
+
+cssbuilder
